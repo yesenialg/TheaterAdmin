@@ -1,0 +1,12 @@
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\bin\Debug\net6.0\TheaterAdmin.Domain.deps.json
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\bin\Debug\net6.0\TheaterAdmin.Domain.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\bin\Debug\net6.0\TheaterAdmin.Domain.pdb
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.csproj.AssemblyReference.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.AssemblyInfoInputs.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.AssemblyInfo.cs
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.csproj.CoreCompileInputs.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\refint\TheaterAdmin.Domain.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\TheaterAdmin.Domain.pdb
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Domain\obj\Debug\net6.0\ref\TheaterAdmin.Domain.dll

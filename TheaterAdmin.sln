@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DB052E0E-59B5-4E9A-BFB8-7E6D18501BD5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3C41BBCA-35CC-4E22-9C54-F9D7D1ACB71C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Api", "Api", "{89B832DC-A6E1-433D-8F98-54814542B582}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{BAE6B7F4-3841-42F6-8CA6-827F9B00525D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{09C20E8E-42A7-4F7C-B8A0-20EB0DDD5D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterAdmin.Api", "TheaterAdmin.Api\TheaterAdmin.Api.csproj", "{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterAdmin.Domain", "TheaterAdmin.Domain\TheaterAdmin.Domain.csproj", "{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterAdmin.Application", "TheaterAdmin.Application\TheaterAdmin.Application.csproj", "{5B010B26-FC47-4727-AB92-157716D5BB72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheaterAdmin.Infrastructure", "TheaterAdmin.Infrastructure\TheaterAdmin.Infrastructure.csproj", "{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B010B26-FC47-4727-AB92-157716D5BB72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B010B26-FC47-4727-AB92-157716D5BB72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B010B26-FC47-4727-AB92-157716D5BB72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B010B26-FC47-4727-AB92-157716D5BB72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{89B832DC-A6E1-433D-8F98-54814542B582} = {DB052E0E-59B5-4E9A-BFB8-7E6D18501BD5}
+		{BAE6B7F4-3841-42F6-8CA6-827F9B00525D} = {DB052E0E-59B5-4E9A-BFB8-7E6D18501BD5}
+		{09C20E8E-42A7-4F7C-B8A0-20EB0DDD5D7E} = {DB052E0E-59B5-4E9A-BFB8-7E6D18501BD5}
+		{3E9E94A7-B88D-4AC1-9EC6-9025D2B3BBBA} = {89B832DC-A6E1-433D-8F98-54814542B582}
+		{A7A9BD05-E734-41AC-B04C-B3B0AC6B276C} = {BAE6B7F4-3841-42F6-8CA6-827F9B00525D}
+		{5B010B26-FC47-4727-AB92-157716D5BB72} = {BAE6B7F4-3841-42F6-8CA6-827F9B00525D}
+		{0BE33DF1-D9E8-4F95-9BF7-953827BF7A8E} = {09C20E8E-42A7-4F7C-B8A0-20EB0DDD5D7E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4D2216C-D1B7-4A9A-8882-068C7EF0DB19}
+	EndGlobalSection
+EndGlobal

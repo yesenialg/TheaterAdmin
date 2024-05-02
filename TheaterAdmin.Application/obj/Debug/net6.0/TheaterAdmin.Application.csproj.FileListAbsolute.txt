@@ -1,0 +1,15 @@
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\bin\Debug\net6.0\TheaterAdmin.Application.deps.json
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\bin\Debug\net6.0\TheaterAdmin.Application.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\bin\Debug\net6.0\TheaterAdmin.Application.pdb
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\bin\Debug\net6.0\TheaterAdmin.Domain.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\bin\Debug\net6.0\TheaterAdmin.Domain.pdb
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.csproj.AssemblyReference.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.AssemblyInfoInputs.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.AssemblyInfo.cs
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.csproj.CoreCompileInputs.cache
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.csproj.CopyComplete
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\refint\TheaterAdmin.Application.dll
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\TheaterAdmin.Application.pdb
+C:\Proyectos\TheaterAdmin\TheaterAdmin.Application\obj\Debug\net6.0\ref\TheaterAdmin.Application.dll
